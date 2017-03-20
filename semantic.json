@@ -34,7 +34,8 @@
 	"segment",
 	"list",
 	"icon",
-	"sidebar"
+	"sidebar",
+	"visibility"
 	
   ]
 }
