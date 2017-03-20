@@ -1,0 +1,16 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*---  Colors  ---*/
+@green            : #394648;
+@orange           : #F18F01;
+@teal             : #CBAC88;
+@lightGreen	  : #69995D;
+@black            : #1B1C1D;
+@grey             : #CCCCCC;
+@white            : #FFFFFF;
+
+/*---  Brand Colors  ---*/
+@primaryColor        : @orange;
+@secondaryColor      : @lightGreen;
